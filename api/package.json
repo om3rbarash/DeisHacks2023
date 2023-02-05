@@ -1,0 +1,15 @@
+{
+  "name": "randomimage",
+  "version": "1.0.0",
+  "description": "get random images from a list of images",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Neilblaze",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jimp": "^0.17.9"
+  }
+}
